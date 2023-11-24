@@ -66,7 +66,34 @@ docker ps
 This is the total amount of time spent on these different endpoints </br>
 ### Calculating the latency (Average latency over the last minute)'
 ![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/16a8594c-fe70-4246-9f67-5b247bc81c86)
+</br>
+Grafana is used for query visualization
+</br>
 
+## Grafana Lab (Depends on Prometheus)
+### Prometheus Login
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/859b9fc6-db2f-469f-93ba-54aafe35b10a)
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/5db6a900-2983-4956-a23d-64b95497ece0)
+### Adding data source
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/b9b81be8-946b-49a0-af00-6323f879b2db)
+### Create a dashboard (importing dashboard)
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/dbb1141e-7a22-4472-809e-9253f1c7fae7)
+### Visualizing the dashboard
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/d5a877ff-551b-415b-9dc0-fbd61519d7ad)
+
+## Other types of metrics that we can import
+### Code updated with CPU and memory endpoints
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/b13da03a-9cbd-4bec-81be-cbd9a0e55d78)
+
+### Import cadvisor dashboard in Grafana
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/554a51d3-38b5-4e7e-9171-26d8ca86c9fc)
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/b5553708-555b-45fa-abda-07b86f204cd0)
+
+
+
+### Reference
+link: https://prometheus.io/docs/introduction/overview/ </br>
+link: https://github.com/google/cadvisor/blob/master/docs/storage/README.md </br>
 
 
 
