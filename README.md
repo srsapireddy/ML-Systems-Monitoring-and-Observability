@@ -84,10 +84,13 @@ Grafana is used for query visualization
 ## Other types of metrics that we can import
 ### Code updated with CPU and memory endpoints
 ![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/b13da03a-9cbd-4bec-81be-cbd9a0e55d78)
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/b5553708-555b-45fa-abda-07b86f204cd0)
 
 ### Import cadvisor dashboard in Grafana
+![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/ef96a936-efcc-459b-8ceb-def7e8a7e31e)
 ![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/554a51d3-38b5-4e7e-9171-26d8ca86c9fc)
-![image](https://github.com/srsapireddy/ML-Systems-Monitoring-and-Observability/assets/32967087/b5553708-555b-45fa-abda-07b86f204cd0)
+
+
 
 
 
